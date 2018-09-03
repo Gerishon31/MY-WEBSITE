@@ -10,7 +10,7 @@ body {
 #info {
 	margin: 0 auto;
 	padding: 0 5%;
-	color: rgb(64, 252, 227);
+	color: rgb(250, 6, 67);
 
 }
 
@@ -46,7 +46,8 @@ h1 {
 }
 
 h2 {
-	font-size: 1.75em;
+	font-size: 1.3em;
+	font-family: 'Great Vibes', cursive;
 	margin: -5px 0 0;
 	font-weight: normal;
 }
@@ -102,7 +103,7 @@ footer {
 	margin: 40px 0px;
 }
 .photo{
-	width: 500px;
+	width: 600px;
 	margin: 0 auto;
 }
 .about{

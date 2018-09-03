@@ -8,5 +8,18 @@ function mouseOut() {
     document.getElementById("name").style.color = "yellow";
 }
 
-    
+
+function big(x) {
+    x.style.height = "200px";
+    x.style.width = "200px";
+}
+
+function normalImg(x) {
+    x.style.height = "120px";
+    x.style.width = "120px";
+}
+
+function mydunc() {
+    document.getElementById("trial").innerHTML = "This is my space";
+}
     
